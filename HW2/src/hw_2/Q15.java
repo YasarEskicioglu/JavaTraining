@@ -8,5 +8,5 @@ public class Q15 {
 	}
 	static {System.out.println(); }
 	{System.out.println(); }
-
+	
 }
